@@ -1,5 +1,5 @@
 name: Build and Deploy ASP.NET Core to ACR and Azure App Service
-
+#first commit
 on:
   push:
     branches: [ "master" ]
